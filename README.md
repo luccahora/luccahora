@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-
+<br />
 
 Olá, meu nome é Lucca, sou graduando
 em Análise de Sistemas, tenho 20 anos.
