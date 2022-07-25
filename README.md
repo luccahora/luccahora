@@ -9,7 +9,7 @@
 <br />
 
 Olá, meu nome é Lucca, sou graduando
-em Análise de Sistemas, tenho 20 anos.
+em Análise de Sistemas, tenho 22 anos.
 Sou desenvolvedor e QA com paixão por
 criar produtos significativos, responsivos,
 acessíveis e de alto desempenho. Adoro
