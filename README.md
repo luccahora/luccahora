@@ -1,64 +1,47 @@
-<p align="center">
-  <sub>SALVADOR, BRAZIL · MOBILE & WEB</sub>
-</p>
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28px" alt="wave"> My name is Lucca
+### Mobile and Front-End Engineer
 
-<h1 align="center">Hi, I'm Lucca Hora.</h1>
+I hold a degree in **Systems Analysis and Development** and have **8 years of experience** as a Developer and QA.  
+I’m passionate about building meaningful, high-performance products.  
 
-<p align="center">
-  <strong>Mobile & Front-End Engineer</strong><br>
-  Building useful products with care for performance, quality, and the people using them.
-</p>
+Throughout my career, I’ve worked on app and platform development for both startups and large companies — always aiming to deliver quality and real impact.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luccahora">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:luccahora@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/luccahora?tab=repositories">Explore my work</a>
+---
+
+### 📍 About Me  
+- 🌍 Based in **Salvador, Bahia, Brazil**  
+- ✉️ Reach me at [luccahora@gmail.com](mailto:luccahora@gmail.com)  
+- 🚀 Currently working at [Midway](http://www.midway.com.br)  
+- 🧠 Learning **Native and Hybrid Mobile Development**
+
+---
+
+### 🛠️ Tech Stack  
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" title="React" width="36" height="36"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" title="Swift" width="36" height="36"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" title="TypeScript" width="36" height="36"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" title="JavaScript" width="36" height="36"/></a>
+  <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" title="Next.js" width="36" height="36"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" title="Firebase" width="36" height="36"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" title="TailwindCSS" width="36" height="36"/></a>
+  <a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma" width="36" height="36"/></a>
+  <a href="https://framer.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" title="Framer" width="36" height="36"/></a>
+  <a href="https://wordpress.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" title="WordPress" width="36" height="36"/></a>
 </p>
 
 ---
 
-## About me
+### 🌐 Socials  
 
-I'm a developer based in **Salvador, Bahia**, with **8 years of experience across software development and QA** and a degree in **Systems Analysis and Development**.
-
-I've worked on apps and platforms for startups and large companies. That mix of development and quality assurance shapes how I build: thinking about both how a product works and how it feels to use.
-
-- **Currently at** [Midway](http://www.midway.com.br).
-- **Focused on** mobile applications and front-end development.
-- **Exploring** native and hybrid mobile development.
-
-## Selected projects
-
-A few projects that bring my interests in mobile, native apps, and everyday problems together.
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[PopPiP](https://github.com/luccahora/PopPiP)** | Keeps Safari videos in Picture-in-Picture while you move between tabs and apps on macOS. | Swift · SwiftUI · JavaScript |
-| **[Cook App](https://github.com/luccahora/Cook-APP)** | Helps turn the ingredients already in your kitchen into ideas for your next meal. | React Native · TypeScript · Supabase |
-| **[Marketspace](https://github.com/luccahora/Marketspace)** | A product listings app built as a React Native bootcamp challenge. | React Native · TypeScript · Expo |
-| **[IgniteTeams](https://github.com/luccahora/IgniteTeams)** | Organizes groups and teams for people getting together to play. | React Native · TypeScript · Expo |
-
-[View all repositories →](https://github.com/luccahora?tab=repositories)
-
-## Tools I work with
-
-| Area | Technologies |
-| :--- | :--- |
-| **Mobile & native** | React Native · Expo · Swift · SwiftUI |
-| **Front end** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| **Backend services** | Firebase · Supabase |
-| **Design & websites** | Figma · Framer · WordPress |
-
-## Let's connect
-
-Want to talk about mobile development, front-end engineering, or a project?
-
-Find me on **[LinkedIn](https://www.linkedin.com/in/luccahora)** or reach out at **[luccahora@gmail.com](mailto:luccahora@gmail.com)**.
-
----
-
-<p align="center">
-  <sub>Coding to improve people's lives.</sub>
+<p align="left">
+  <a href="https://www.linkedin.com/in/luccahora" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" title="LinkedIn" alt="LinkedIn" />
+    </picture>
+  </a>
 </p>
